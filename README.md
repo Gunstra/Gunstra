@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gunstra
 - 👀 I’m interested in ... useful software
-- 🌱 I’m currently learning ... android studio
+- 🌱 I’m currently learning ... WordPress and Xenforo
 - 💞️ I’m looking to collaborate on ... none
 - 📫 How to reach me ... on here
 
